@@ -1,0 +1,10 @@
+# Файлы КОМПАС-3D — бинарные, не сливаются и не диффаются
+*.m3d binary
+*.a3d binary
+*.cdw binary
+*.frw binary
+*.spw binary
+*.kdw binary
+*.step binary
+*.stp binary
+*.pdf binary
